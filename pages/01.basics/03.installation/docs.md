@@ -236,6 +236,8 @@ $ php install.php
 
 You will be prompted to confirm your operating system, after which the tables and some default rows will be created.  Next, you will be prompted for some information to set up the master account.
 
+>>>>> if you are on a mac and the detected operating system is 'Darwin'... that is correct
+
 Once this has completed successfully, you can sign in with your root account at `http://localhost/myUserFrostingProject/public/account/sign-in-or-register`.
 
 Congratulations!  Now that this is complete, you're ready to start developing your application by [creating your first Sprinkle](/sprinkles).
